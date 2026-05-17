@@ -50,4 +50,4 @@ Finalize per [04-outcome.md](assets/04-outcome.md).
 - Final PDF/Data is presented to the user.
 
 ## Additional Instructions
-None
+All temporary scripts generated while execution of skills (scripts which will be deleted after execution) will be written in `.gemini/skills-diary/temp-scripts/<timestamp>/`.
