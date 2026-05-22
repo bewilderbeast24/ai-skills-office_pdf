@@ -25,6 +25,9 @@ This stage involves loading the relevant code snippets, templates, and library c
 - Code snippets and library status loaded into context.
 
 ## Post-stage Checkpoint
+### Progress Tracking
+- Update `.agents/skills-diary/pdf-processing/[<instance-name>]/checklist.md` by marking the 'Context Setup' stage as completed.
+
 ### Version Control
 - N/A.
 
