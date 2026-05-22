@@ -28,6 +28,9 @@ This stage executes the specific PDF operation according to the selected mode an
 - Resulting PDF file or extracted data (TXT, JSON, XLSX, CSV).
 
 ## Post-stage Checkpoint
+### Progress Tracking
+- Update `.agents/skills-diary/pdf-processing/[<instance-name>]/checklist.md` by marking the 'Specialized Workflow' stage as completed.
+
 ### Version Control
 - Verify the generated files: `ls -l <output_file>`.
 
