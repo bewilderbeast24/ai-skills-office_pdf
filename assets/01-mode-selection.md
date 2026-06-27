@@ -28,6 +28,9 @@ This stage involves identifying the user's specific PDF processing requirement a
 - Selected mode stored in agent's context.
 
 ## Post-stage Checkpoint
+### Progress Tracking
+- Update `.agents/skills-diary/pdf-processing/[<instance-name>]/checklist.md` by marking the 'Mode Selection' stage as completed.
+
 ### Version Control
 - N/A (no files modified).
 

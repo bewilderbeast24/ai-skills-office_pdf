@@ -23,6 +23,9 @@ This stage involves validating the final output and confirming task completion.
 - Final validated PDF or data file.
 
 ## Post-stage Checkpoint
+### Progress Tracking
+- Update `.agents/skills-diary/pdf-processing/[<instance-name>]/checklist.md` by marking the 'Outcome' stage as completed.
+
 ### Version Control
 - Commit changes if requested by the user.
 
